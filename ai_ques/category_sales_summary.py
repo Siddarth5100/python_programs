@@ -49,3 +49,5 @@ but not efficient, too many loops, nested loops
 #             total_sales_amount[sale["category"]] = total_amount
 
 # print(f"Category Name: {category_name}, Maximum amount: {max_amount}")
+
+
